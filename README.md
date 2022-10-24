@@ -18,7 +18,7 @@
 
 ### Purpose
 
-"A traditional list of immediate "basic needs" is food (including water), shelter and clothing.[3] Many modern lists emphasize the minimum level of consumption of "basic needs" of not just food, water, clothing and shelter, but also sanitation, education, and healthcare. Different agencies use different lists. "
+"A traditional list of immediate "basic needs" is food (including water), shelter and clothing. Many modern lists emphasize the minimum level of consumption of "basic needs" of not just food, water, clothing and shelter, but also sanitation, education, and healthcare. Different agencies use different lists."
 
 Let's be honest, things have changed in Australia, many Australians are struggling to fulfil the basic need of Shelter. This basic need is no longer as easy to obtain as it was. New difficulties and issues have arisen that previous generations never faced. 
 
@@ -29,14 +29,12 @@ The purpose is to articulate legislation and other actions that can be taken to 
 
 ### Policy Objectives
 
-- Not reinvent the wheel - copy models of real estate markets that have a better balance between shelter and investment. For example German Real Estate.
+- Not reinvent the wheel - copy models of real estate markets that have a better balance between shelter and investment. For example the German Real Estate market.
 - Implement policies who's primary concern is making  property a basic need first and a money making vehicle second.
 - Create a fairer environment for tenants 
 - Provide rental stability and housing stability
 - Reduce the time and effort required to secure a rental
 - Address "Too poor to buy a house, too rich to rent"
-- Implement policies who's primary concern is making  property a basic need first and a money making vehicle second.
-- Not reinvent the wheel - copy models of real estate markets that have a better balance between shelter and investment. For example German Real Estate.
 
 
 #### Aconymns
@@ -77,7 +75,7 @@ Problems currently faced by Australians seeking shelter:
 #### Meta
 
 - These policies need criticism and input from technical people (politicians, bureaucrats, community members, etc.). 
-- We need graphic designers to create info-graphics for each policy that succinctly articulate what the policy is and its benefits. These can be posted on social media, in physical form, etc.
+- We need graphic designers to create info-graphics for each policy that succinctly articulate what the policy is and its benefits. These can be distributed on social media, in physical form, etc.
 - Create a website for these policies so its more approachable for non-tecnical people
 - Use a better suited medium rather than github
 - As of 24/10/2022 these policies have been created in a realpolitik manor with policies that use carrots rather than sticks. The reason for this is past Australian government reluctance to intervene in the property market for fear of affecting the property investors.

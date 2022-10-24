@@ -14,7 +14,7 @@ Example; *TODO*
 - Federal Government
 - Real Estate Agent
 
-##### Impacts of proposal on stakeholders
+#### Impacts of proposal on stakeholders
 
 **Postitive**
 
@@ -25,7 +25,7 @@ Example; *TODO*
 *TODO*
 
 
-##### Impacts of proposal on the market
+#### Impacts of proposal on the market
 
 **Postitive**
 
@@ -38,7 +38,7 @@ Example; *TODO*
 
 #### Potential policy abusal
 
-*We've seen how new policies can backfire and have *unintended effects. It's best to identify policy abusals for this specific policy so we can mitigate them.*
+*We've seen how new policies can backfire and have \*unintended effects. It's best to identify policy abusals for this specific policy so we can mitigate them.*
 
 *TODO*
 
