@@ -77,6 +77,8 @@ Problems currently faced by Australians seeking shelter:
 #### Meta
 
 - These policies need criticism and input from technical people (politicians, bureaucrats, community members, etc.). 
-- Create a website for this
+- We need graphic designers to create info-graphics for each policy that succinctly articulate what the policy is and its benefits. These can be posted on social media, in physical form, etc.
+- Create a website for these policies so its more approachable for non-tecnical people
 - Use a better suited medium rather than github
 - As of 24/10/2022 these policies have been created in a realpolitik manor with policies that use carrots rather than sticks. The reason for this is past Australian government reluctance to intervene in the property market for fear of affecting the property investors.
+- If you see *TODO* that means that section has yet to be implemented. Feel free to take over and contribute.
