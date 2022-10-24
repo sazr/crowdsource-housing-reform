@@ -1,1 +1,82 @@
-# Readme
+# Policy Proposals
+
+- "Highest bid no longer the best bid" - No CGT on any investment sales for 2 years or a tax refund for sellers who sell to PPOR buyers under 45yo (PPORU45).
+- "Housing supply is there, just not being used" - 2 years tax refund or rebate for renting out a Deceased estate, Holiday rental, AirBnB rental, Holiday home or vacant house.
+- "Downsize and make money and house your grand-children" - no CGT on any investment sales or rebate if a retiree sells or rents their house and moves to a retirement village or assisted living facility.
+- Minimum and target number of rentals per region by federal and/or state governments.
+- Minimum number of public housing/social housing per region by federal and/or state governments.
+- Low occupant to bedroom ratio tax - tax or limit tax deductions on households that have vacant rooms.
+- Local Government buildings as night refuges: Allow local governments, in times of low housing availablilty, to use government buildings to support homeless.
+- Disallow rental application questions that inaccurately or negatively impact an applicants application.
+- Better negotiating power for tenant on begin of tenancy dates.
+- Tiered Tax for "Landlord Barons"
+- Regulate rent: tie rents to 25% of median wage **From Renters and Housing Union
+- Limit rent increases to below Consumer Price Index **From Renters and Housing Union
+- Increase protections for renters including No Adverse Action **From Renters and Housing Union
+- Apply and enforce penalties to agents and landlords for breaches to renters rights **From Renters and Housing Union
+
+
+### Purpose
+
+"A traditional list of immediate "basic needs" is food (including water), shelter and clothing.[3] Many modern lists emphasize the minimum level of consumption of "basic needs" of not just food, water, clothing and shelter, but also sanitation, education, and healthcare. Different agencies use different lists. "
+
+Let's be honest, things have changed in Australia, many Australians are struggling to fulfil the basic need of Shelter. This basic need is no longer as easy to obtain as it was. New difficulties and issues have arisen that previous generations never faced. 
+
+Legislation and reform is required to address these new issues and give future generations the same shelter opportunities that previous ones had.
+
+The purpose is to articulate legislation and other actions that can be taken to make it easier, faster and less costly to secure rental accomodation or purchase a principal place of residence.
+
+
+### Policy Objectives
+
+- Not reinvent the wheel - copy models of real estate markets that have a better balance between shelter and investment. For example German Real Estate.
+- Implement policies who's primary concern is making  property a basic need first and a money making vehicle second.
+- Create a fairer environment for tenants 
+- Provide rental stability and housing stability
+- Reduce the time and effort required to secure a rental
+- Address "Too poor to buy a house, too rich to rent"
+- Implement policies who's primary concern is making  property a basic need first and a money making vehicle second.
+- Not reinvent the wheel - copy models of real estate markets that have a better balance between shelter and investment. For example German Real Estate.
+
+
+#### Aconymns
+
+- IS - Investment Property Seller 
+- IB - Investment Property Buyer
+- PPORS - Primary place of residence seller (any age)
+- PPORB - Primary place of residence buyer (any age)
+- PPORBU45 - Primary place of residence buyer who is under 45yo
+- PPORBO45 - Primary place of residence buyer who is over 45yo
+- RA - Real Estate Agent
+- PM - Property manager
+- SG - State Government
+- FG - Federal Government
+- LI - Bank/Lending Institution
+
+
+### Problems
+
+Problems currently faced by Australians seeking shelter:
+
+- "Choice between shelter or employment" - Rental inspections are held during work hours 10am-4pm. REA's won't accept an application if you haven't viewed the property.
+- "1980's Application Methods Only" - REA's only accept paper application forms. Prospective tenants fill out an average of 16 applications before securing a rental. Requires printer availability, scanner, printer fees, physically drop in application.
+- Questions on rental applications that inaccurately negatively impact an applicants application "Was your bond returned in full from your last tenancy"
+- The hidden fee's of renting
+- The basic need of shelter in Australia is unstable: 
+    - Only 6 month tenancies max
+    - Time required to attend applications
+    - Threat of bond fees means fear of using rental
+    - Moving requires alot of time, effort and money
+    - Doubling up of rent between ending one tenancy and beginning the next (2 weeks overlap).
+- Too poor to buy, too rich to rent
+- Tenants implicitly liable for house maintenance (remove palm fronds, remove grass clippings, clean awnings)
+- "Even if you win, you loose" - Power imbalance between tenants and the landlord/Property Manager. Even mechanisms to solve disputes can lead to indirect negative outcomes for the tenant. Possible to be abused.
+- Holding of bond open to abuse by property managers.
+
+
+#### Meta
+
+- These policies need criticism and input from technical people (politicians, bureaucrats, community members, etc.). 
+- Create a website for this
+- Use a better suited medium rather than github
+- As of 24/10/2022 these policies have been created in a realpolitik manor with policies that use carrots rather than sticks. The reason for this is past Australian government reluctance to intervene in the property market for fear of affecting the property investors.
