@@ -1,4 +1,4 @@
-##### 
+## Better negotiating power for tenant on begin of tenancy dates.
 
 
 Example; *TODO*

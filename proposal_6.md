@@ -1,4 +1,4 @@
-##### 
+## Low occupant to bedroom ratio tax - tax or limit tax deductions on households that have vacant rooms.
 
 
 Example; *TODO*

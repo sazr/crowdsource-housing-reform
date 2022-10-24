@@ -1,4 +1,4 @@
-##### 
+## "Downsize and make money and house your grand-children" - no CGT on any investment sales or rebate if a retiree sells or rents their house and moves to a retirement village or assisted living facility. 
 
 
 Example; *TODO*

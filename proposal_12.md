@@ -1,4 +1,4 @@
-## Minimum and target number of rentals per region by federal and/or state governments.
+## Limit rent increases to below Consumer Price Index
 
 
 Example; *TODO*

@@ -1,4 +1,4 @@
-## Minimum and target number of rentals per region by federal and/or state governments.
+## Increase protections for renters including No Adverse Action 
 
 
 Example; *TODO*

@@ -1,4 +1,4 @@
-##### "Highest bid no longer the best bid" - No CGT on any investment sales for 2 years or a tax refund for sellers who sell to PPOR buyers under 45yo.
+## "Highest bid no longer the best bid" - No CGT on any investment sales for 2 years or a tax refund for sellers who sell to PPOR buyers under 45yo.
 
 
 Example; John (IS) is selling his investment property and receives 3 offers; $675k from Jane (PPORBO45), $673k from Rod (IB), $670k from Cindy (PPORBU45). Cindy is a PPOR buyer under 45yo. If John decides to take Cindy's offer he will walk away with more money in his hands even though Cindy's offer is not the highest bid - when he takes into account the lack of CGT applied to his sale and any other investments he decides to cash out in the next 2 years.
@@ -23,7 +23,7 @@ Example; John (IS) is selling his investment property and receives 3 offers; $67
 **Negative**
 
 - The RA will make less money per sale in this proposal. In the example given above, the RA would make about $200 less or about 0.8% less had the IS taken the biggest offer.
-- If all bidders are PPORB under 45yo's the proposal fails to achieve it's goal of \Highest bid no longer the best bid\. In the example given above, John will most likely take the highest bid.
+- If all bidders are PPORB under 45yo's the proposal fails to achieve it's goal of "Highest bid no longer the best bid". In the example given above, John will most likely take the highest bid.
     - In this scenario, it can still be argued that the proposal encouraged John to sell his property in the first case - the impact of which is increasing the supply of properties for sale.
 - PPORB over 45yo and IB can be discouraged engaging in the market at all whilst this proposal is active. 
     - In this scenario, it can still be argued that the proposal has reduced the total number of bidders on a given property thus competition for buying properties and only encouraged buyers whose purpose is shelter over investment.

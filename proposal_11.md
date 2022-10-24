@@ -1,4 +1,4 @@
-## Minimum and target number of rentals per region by federal and/or state governments.
+## Regulate rent: tie rents to 25% of median wage
 
 
 Example; *TODO*

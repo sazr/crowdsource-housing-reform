@@ -1,4 +1,4 @@
-##### 
+## Disallow rental application questions that inaccurately or negatively impact an applicants application.
 
 
 Example; *TODO*

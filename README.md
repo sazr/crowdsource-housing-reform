@@ -4,16 +4,16 @@
 - "Housing supply is there, just not being used" - 2 years tax refund or rebate for renting out a Deceased estate, Holiday rental, AirBnB rental, Holiday home or vacant house. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_2.md)**
 - "Downsize and make money and house your grand-children" - no CGT on any investment sales or rebate if a retiree sells or rents their house and moves to a retirement village or assisted living facility. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_3.md)**
 - Minimum and target number of rentals per region by federal and/or state governments. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_4.md)**
-- Minimum number of public housing/social housing per region by federal and/or state governments.
-- Low occupant to bedroom ratio tax - tax or limit tax deductions on households that have vacant rooms. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_5.md)**
-- Local Government buildings as night refuges: Allow local governments, in times of low housing availablilty, to use government buildings to support homeless. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_6.md)**
-- Disallow rental application questions that inaccurately or negatively impact an applicants application. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_7.md)**
-- Better negotiating power for tenant on begin of tenancy dates. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_8.md)**
-- Tiered Tax for "Landlord Barons" **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_9.md)**
-- Regulate rent: tie rents to 25% of median wage \**From Renters and Housing Union* **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_10.md)**
-- Limit rent increases to below Consumer Price Index \**From Renters and Housing Union* **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_11.md)**
-- Increase protections for renters including No Adverse Action \**From Renters and Housing Union* **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_12.md)**
-- Apply and enforce penalties to agents and landlords for breaches to renters rights \**From Renters and Housing Union* **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_13.md)**
+- Minimum number of public housing/social housing per region by federal and/or state governments. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_5.md)**
+- Low occupant to bedroom ratio tax - tax or limit tax deductions on households that have vacant rooms. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_6.md)**
+- Local Government buildings as night refuges: Allow local governments, in times of low housing availablilty, to use government buildings to support homeless. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_7.md)**
+- Disallow rental application questions that inaccurately or negatively impact an applicants application. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_8.md)**
+- Better negotiating power for tenant on begin of tenancy dates. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_9.md)**
+- Tiered Tax for "Landlord Barons" **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_10.md)**
+- Regulate rent: tie rents to 25% of median wage \**From Renters and Housing Union* **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_11.md)**
+- Limit rent increases to below Consumer Price Index \**From Renters and Housing Union* **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_12.md)**
+- Increase protections for renters including No Adverse Action \**From Renters and Housing Union* **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_13.md)**
+- Apply and enforce penalties to agents and landlords for breaches to renters rights \**From Renters and Housing Union* **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_14.md)**
 
 
 ### Purpose

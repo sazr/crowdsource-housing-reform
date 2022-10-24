@@ -1,4 +1,4 @@
-##### 
+## Local Government buildings as night refuges: Allow local governments, in times of low housing availablilty, to use government buildings to support homeless.
 
 
 Example; *TODO*
