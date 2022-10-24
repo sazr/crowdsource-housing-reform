@@ -1,7 +1,7 @@
-## Tiered Tax for "Landlord Barons" 
+## Fund build to rent initiatives
 
 
-Example; Progressively tax, in an accelerating manner, the total residential property pool a person owns based on the number of properties. For example, Property 1. Gets a 0% tax. Property 2 gets a 2% tax across both places. Property 3 gets a 4% across all three. Property 4 gets a 8% tax on the lot. Property 5 gets a 15% tax on the lot. Etc.
+Example; *TODO*
 
 
 #### Stakeholders

@@ -10,10 +10,11 @@
 - Disallow rental application questions that inaccurately or negatively impact an applicants application. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_8.md)**
 - Better negotiating power for tenant on begin of tenancy dates. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_9.md)**
 - Tiered Tax for "Landlord Barons" **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_10.md)**
-- Regulate rent: tie rents to 25% of median wage \**From Renters and Housing Union* **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_11.md)**
+- Limit rent increases to a set percentage or market rate plus a certain percentage, whichever is lower. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_11.md)**
 - Limit rent increases to below Consumer Price Index \**From Renters and Housing Union* **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_12.md)**
 - Increase protections for renters including No Adverse Action \**From Renters and Housing Union* **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_13.md)**
 - Apply and enforce penalties to agents and landlords for breaches to renters rights \**From Renters and Housing Union* **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_14.md)**
+- Fund build to rent initiatives **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_15.md)**
 
 
 ### Purpose
@@ -35,6 +36,7 @@ The purpose is to articulate legislation and other actions that can be taken to 
 - Provide rental stability and housing stability
 - Reduce the time and effort required to secure a rental
 - Address "Too poor to buy a house, too rich to rent"
+- Disincentivise housing as an investment. It should COST money to sit on an asset and do nothing with it.
 
 
 #### Aconymns

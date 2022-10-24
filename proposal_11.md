@@ -1,4 +1,6 @@
-## Regulate rent: tie rents to 25% of median wage
+## Limit rent increases to a set percentage or market rate plus a certain percentage, whichever is lower.
+
+Or Cap rental rises to X% per annum unless the property has undergone substantial renovations.
 
 
 Example; *TODO*
