@@ -14,6 +14,18 @@ Example; John (IS) is selling his investment property and receives 3 offers; $67
 - Federal Government
 - Real Estate Agent
 
+#### Proposal Details
+
+- "No CGT on any investment sales for 2 years or a tax refund" rules and eligibility;
+    - The property must be sold to a PPORU45 buyer and settlement must be completed.
+    - The seller can be any age
+    - The seller can be selling any of the following; PPOR, IP
+- The seller can either;
+    - Pay no CGT on any investment they sell within 2 years of selling their property. The no CGT also applies to the sale of their property. 
+    OR
+    - Claim a $15000 income tax credit the same financial year that they sold their property.
+
+
 #### Impacts of proposal on stakeholders
 
 **Postitive**
@@ -26,7 +38,7 @@ Example; John (IS) is selling his investment property and receives 3 offers; $67
 - If all bidders are PPORB under 45yo's the proposal fails to achieve it's goal of "Highest bid no longer the best bid". In the example given above, John will most likely take the highest bid.
     - In this scenario, it can still be argued that the proposal encouraged John to sell his property in the first case - the impact of which is increasing the supply of properties for sale.
 - PPORB over 45yo and IB can be discouraged from engaging in the market at all whilst this proposal is active. 
-    - In this scenario, it can still be argued that the proposal has reduced the total number of bidders on a given property thus competition for buying properties and only encouraged buyers whose purpose is shelter over investment.
+    - In this scenario, it can still be argued that the proposal has reduced the total number of bidders on a given property thus lowered competition for buying properties and only encouraged buyers whose purpose is shelter over investment.
 - PPORB over 45yo's and IB will be encouraged to make even higher bids - causing even higher sale prices. In the example given above, the RA informs Jane that the seller (John) is considering going with a lower offer made by a PPORU45. Jane decides to counter-offer $715k. 
     - Depending on how much John originally purchased the property, this offer may still not work out as more money when CGT is taken into account. John could decide to sell some of his stocks in the next 2 years and again profit from lack of CGT.
 
@@ -47,4 +59,4 @@ Example; John (IS) is selling his investment property and receives 3 offers; $67
 
 *TODO*
 
-\*In October 2022 the Queensland State Government implemented policies to that gives tenant's more negotiating power when renwing a lease. In response to the policy, the REIQ (Real Estate Institute of Queensland) recommended all landlords immediately issue RTA Form 20's "Notice to Leave" to their tenants and to issue Form 20's to tenants at the beginning of signing a new lease. By issuing Form 20's it almost nulifies the effects and benefits of the Queensland State Government's policy for tenants. We want to avoid such outcomes of the policies we are advocating. [Source](https://www.reiq.com/articles/notices-to-leave-and-instructions-from-lessor-clients/)
+\*In October 2022 the Queensland State Government implemented policies to that gives tenant's more negotiating power when renwing a lease. In response to the policy, the REIQ (Real Estate Institute of Queensland) recommended all landlords immediately issue RTA Form 20's "Notice to Leave" to their tenants and to issue Form 20's to tenants at the beginning of signing a new lease. By issuing Form 20's it almost nulifies the effects and benefits of the Queensland State Government's policy for tenants. We want to avoid such outcomes of the policies we are advocating. [Source](https://www.reiq.com/articles/notices-to-leave-and-instructions-from-lessor-clients/) [Source](https://www.reiq.com/articles/notices-to-leave-and-instructions-from-lessor-clients/)

@@ -1,8 +1,8 @@
 # Policy Proposals
 
 - "Highest bid no longer the best bid" - No CGT on any investment sales for 2 years or a tax refund for sellers who sell to PPOR buyers under 45yo (PPORU45). **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_1.md)**
-- "Housing supply is there, just not being used" - 2 years tax refund or rebate for renting out a Deceased estate, Holiday rental, AirBnB rental, Holiday home or vacant house. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_2.md)**
-- "Downsize and make money and house your grand-children" - no CGT on any investment sales or rebate if a retiree sells or rents their house and moves to a retirement village or assisted living facility. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_3.md)**
+- "Housing supply is there, just not being used" - 2 years tax refund and rebate for renting out a Deceased estate, Holiday rental, AirBnB rental, Holiday home or vacant house. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_2.md)**
+- "Downsize, save money and house your grand-children" - $15,000 rebate if a retiree sells or rents their house and moves to a retirement village or assisted living facility. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_3.md)**
 - Minimum and target number of rentals per region by federal and/or state governments. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_4.md)**
 - Minimum number of public housing/social housing per region by federal and/or state governments. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_5.md)**
 - Low occupant to bedroom ratio tax - tax or limit tax deductions on households that have vacant rooms. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_6.md)**
@@ -41,8 +41,9 @@ The purpose is to articulate legislation and other actions that can be taken to 
 
 #### Aconymns
 
-- IS - Investment Property Seller 
-- IB - Investment Property Buyer
+- IPS - Investment Property Seller 
+- IPB - Investment Property Buyer
+- IPO - Investment Property Owner
 - PPORS - Primary place of residence seller (any age)
 - PPORB - Primary place of residence buyer (any age)
 - PPORBU45 - Primary place of residence buyer who is under 45yo
@@ -52,6 +53,7 @@ The purpose is to articulate legislation and other actions that can be taken to 
 - SG - State Government
 - FG - Federal Government
 - LI - Bank/Lending Institution
+- CGT - Capital Gains Tax
 
 
 ### Problems
