@@ -1,8 +1,8 @@
 # Policy Proposals
 
 - "Highest bid no longer the best bid" - No CGT on any investment sales for 2 years or a tax refund for sellers who sell to PPOR buyers under 45yo (PPORU45). **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_1.md)**
-- "Housing supply is there, just not being used" - 2 years tax refund and rebate for renting out a Deceased estate, Holiday rental, AirBnB rental, Holiday home or vacant house. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_2.md)**
-- "Downsize, save money and house your grand-children" - $15,000 rebate for retiree's who sells or rents their house and moves to a retirement village or assisted living facility. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_3.md)**
+- "Housing supply is there, just not being used" - 12 months CGT moratorium, 12 months tax refund and maintenance rebate for renting out a Deceased estate, Holiday rental, AirBnB rental, Holiday home or vacant house. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_2.md)**
+- "Downsize, save money and house your grand-children" - 6 months CGT moratorium, $15,000 rebate for retiree's who sells or rents their house and moves to a retirement village or assisted living facility. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_3.md)**
 - Minimum and target number of rentals per region by federal and/or state governments. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_4.md)**
 - Minimum number of public housing/social housing per region by federal and/or state governments. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_5.md)**
 - Low occupant to bedroom ratio tax - tax or limit tax deductions on households that have vacant rooms. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_6.md)**
@@ -37,6 +37,7 @@ The purpose is to articulate legislation and other actions that can be taken to 
 - Reduce the time and effort required to secure a rental
 - Address "Too poor to buy a house, too rich to rent"
 - Disincentivise housing as an investment. It should COST money to sit on an asset and do nothing with it.
+- Pay for the policies by taxing SMSF's and modern 'landlord barrons'
 
 
 #### Aconymns
@@ -55,12 +56,14 @@ The purpose is to articulate legislation and other actions that can be taken to 
 - FG - Federal Government
 - LI - Bank/Lending Institution
 - CGT - Capital Gains Tax
+- SMSF - Self-managed super fund. In the retirement phase, in most cases investment earnings are not taxed (for balances up to $1.7 million). If you're still working (it's called being in the accumulation phase) and earning under $250,000, you can make contributions before tax at a rate of 15 per cent, instead of your marginal tax rate. These concessions largely favour high income earners, since the tax rate within super is flat, while the tax system outside super is progressive.
 
 
 ### Problems
 
 Problems currently faced by Australians seeking shelter:
 
+- Purchasing a PPOR now costs 4, 8 sometimes 11 times your annual income. That wasn't always the case, previous generations would be paying a maximum of 4 times their annual income. 
 - "Choice between shelter or employment" - Rental inspections are held during work hours 10am-4pm. REA's won't accept an application if you haven't viewed the property.
 - "1980's Application Methods Only" - REA's only accept paper application forms. Prospective tenants fill out an average of 16 applications before securing a rental. Requires printer availability, scanner, printer fees, physically drop in application.
 - Questions on rental applications that inaccurately negatively impact an applicants application "Was your bond returned in full from your last tenancy"
@@ -79,6 +82,8 @@ Problems currently faced by Australians seeking shelter:
 
 #### Meta
 
+- Obviously these proposals are incomplete - we require crowd sourcing to both flesh them out but also improve them so that they successfully achieve their intended objectives without indirect negative consequences.
+- Obviously these proposals are not technical - again we require crowd sourcing to both flesh them out but also improve them so that they successfully achieve their intended objectives without indirect negative consequences.
 - These policies need criticism and input from technical people (politicians, bureaucrats, community members, etc.). 
 - We need graphic designers to create info-graphics for each policy that succinctly articulate what the policy is and its benefits. These can be distributed on social media, in physical form, etc.
 - Create a website for these policies so its more approachable for non-tecnical people
