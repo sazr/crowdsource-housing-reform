@@ -1,7 +1,9 @@
 ## Low occupant to bedroom ratio tax - tax or limit tax deductions on households that have vacant rooms.
 
 
-Example; *TODO*
+Example; Nigel and Lynn are retired empty nesters who earn about $65k a year (all tax free) in their SMSF and rental income from 2 IP's. They live in their PPOR 4 bedroom house that they raised their 3 children in and have fully paid off the mortgage on. Their children have since moved out and 3 bedrooms in their PPOR sit vacant. Because they have a low occupant to bedroom ratio their $65K SMSF earners incur tax and they cannot claim IP related deductions. 
+
+SMSF - Self-managed super fund. In the retirement phase, in most cases investment earnings are not taxed (for balances up to $1.7 million). If you're still working (it's called being in the accumulation phase) and earning under $250,000, you can make contributions before tax at a rate of 15 per cent, instead of your marginal tax rate. These concessions largely favour high income earners, since the tax rate within super is flat, while the tax system outside super is progressive.
 
 
 #### Stakeholders
@@ -18,7 +20,7 @@ Example; *TODO*
 
 **Postitive**
 
-*TODO*
+- Encourage those that have had the opportunity to own property almost all their adult lives to downsize and give the future generations to same property ownership opportunities they experienced. 
 
 **Negative**
 

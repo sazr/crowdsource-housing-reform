@@ -1,7 +1,7 @@
 ## Minimum and target number of rentals per region by federal and/or state governments.
 
 
-Example; *TODO*
+Example; The QLD government has been monitoring/measuring available rentals vs population growth
 
 
 #### Stakeholders
