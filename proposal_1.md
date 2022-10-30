@@ -1,7 +1,7 @@
 ## "Highest bid no longer the best bid" - No CGT on any investment sales for 2 years or a tax refund for sellers who sell to PPOR buyers who currently own no property (NPPORB).
 
 
-Example; John (IPS) is selling his investment property and receives 3 offers; $675k from Jane (PPORBO45), $673k from Rod (IPB), $670k from Cindy (PPORB). Cindy is a PPOR buyer who currently owns no property (NPPORB). If John decides to take Cindy's offer he will walk away with more money in his hands even though Cindy's offer is not the highest bid - when he takes into account the lack of CGT applied to his sale and any other investments he decides to cash out in the next 2 years.
+Example; John (IPS) is selling his investment property and receives 3 offers; $675k from Jane (PPOR), $673k from Rod (IPB), $670k from Cindy (NPPORB). Cindy is a PPOR buyer who currently owns no property (NPPORB). If John decides to take Cindy's offer he will walk away with more money in his hands even though Cindy's offer is not the highest bid - when he takes into account the lack of CGT applied to his sale and any other investments he decides to cash out in the next 2 years.
 
 
 #### Stakeholders
@@ -46,12 +46,12 @@ Example; John (IPS) is selling his investment property and receives 3 offers; $6
 - Could lead to even less rentals available as LL's decide to sell their current rental and 'cash-in'. Ideally this potential impact should be mitigated by [Proposal 2](https://github.com/sazr/housing-reform/blob/master/proposal_2.md). **This is a serious impact of this proposal that needs to be mitigated somehow. Ideas welcome.**
     - Implementing local and regional limits on how many sellers can claim this proposal could mitigate this issue.
 - The RA will make less money per sale in this proposal. In the example given above, the RA would make about $200 less or about 0.8% less had the IPS taken the biggest offer.
-- If all bidders are PPORB under 45yo's the proposal fails to achieve it's goal of "Highest bid no longer the best bid". In the example given above, John will most likely take the highest bid.
+- If all bidders are NPPORB's the proposal fails to achieve it's goal of "Highest bid no longer the best bid". In the example given above, John will most likely take the highest bid.
     - In this scenario, it can still be argued that the proposal encouraged John to sell his property in the first case - the impact of which is increasing the supply of properties for sale.
     - In this scenario, the proposal has still achieved one of our objectives which is to house those that most need it (NPPOR's).
-- PPORB over 45yo and IB can be discouraged from engaging in the market at all whilst this proposal is active. 
+- PPORB's and IPB's can be discouraged from engaging in the market at all whilst this proposal is active. 
     - In this scenario, it can still be argued that the proposal has reduced the total number of bidders on a given property thus lowered competition for buying properties and only encouraged buyers whose purpose is shelter over investment. Ie, encouraged a healthier property market based on basic needs rather than investment.
-- PPORB over 45yo's and IB will be encouraged to make even higher bids - causing even higher sale prices. In the example given above, the RA informs Jane that the seller (John) is considering going with a lower offer made by a NPPORB. Jane decides to counter-offer $715k. 
+- PPORB's and IPB's will be encouraged to make even higher bids - causing even higher sale prices. In the example given above, the RA informs Jane that the seller (John) is considering going with a lower offer made by a NPPORB. Jane decides to counter-offer $715k. 
     - Depending on how much John originally purchased the property, this offer may still not work out as more money when CGT is taken into account. Also, John could decide to sell some of his stocks in the next 2 years and again profit from lack of CGT further making Jane's offer (the highest bid) less appealing.
 
 
