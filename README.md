@@ -1,6 +1,6 @@
 # Policy Proposals
 
-- "Highest bid no longer the best bid" - No CGT on any investment sales for 2 years or a tax refund for sellers who sell to PPOR buyers under 45yo (PPORU45). **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_1.md)**
+- "Highest bid no longer the best bid" - No CGT on any investment sales for 2 years or a tax refund for sellers who sell to PPOR buyers who currently own no property (NPPORB). **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_1.md)**
 - "Housing supply is there, just not being used" - 12 months CGT moratorium, 12 months tax refund and maintenance rebate for renting out a currently un-rented dwelling - a Deceased estate, Holiday rental, AirBnB rental, Holiday home or vacant house. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_2.md)**
 - Tiered Reward System for Landlords who sign long-term fixed-term leases that locks in the rent price over that period. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_16.md)**
 - "Downsize, save money and house your grand-children" - 6 months CGT moratorium, $15,000 rebate for retiree's who sells or rents their house and moves to a retirement village or assisted living facility. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_3.md)**
@@ -49,6 +49,8 @@ The purpose is to articulate legislation and other actions that can be taken to 
 - IPO - Investment Property Owner
 - PPORS - Primary place of residence seller (any age)
 - PPORB - Primary place of residence buyer (any age)
+- NPPOR - A person of any age who owns no property - including no primary place if residence or investment properties.  
+- NPPORB - A person of any age who owns no property - including no primary place if residence or investment properties - attempting to buy a PPOR property.
 - PPORBU45 - Primary place of residence buyer who is under 45yo and owns no other property.
 - PPORBO45 - Primary place of residence buyer who is over 45yo (can own other property).
 - LL - Landlord - owner of a property they are renting out
