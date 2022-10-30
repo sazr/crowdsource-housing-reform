@@ -1,7 +1,8 @@
 # Policy Proposals
 
 - "Highest bid no longer the best bid" - No CGT on any investment sales for 2 years or a tax refund for sellers who sell to PPOR buyers under 45yo (PPORU45). **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_1.md)**
-- "Housing supply is there, just not being used" - 12 months CGT moratorium, 12 months tax refund and maintenance rebate for renting out a Deceased estate, Holiday rental, AirBnB rental, Holiday home or vacant house. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_2.md)**
+- "Housing supply is there, just not being used" - 12 months CGT moratorium, 12 months tax refund and maintenance rebate for renting out a currently un-rented dwelling - a Deceased estate, Holiday rental, AirBnB rental, Holiday home or vacant house. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_2.md)**
+- Tiered Reward System for Landlords who sign long-term fixed-term leases that locks in the rent price over that period. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_16.md)**
 - "Downsize, save money and house your grand-children" - 6 months CGT moratorium, $15,000 rebate for retiree's who sells or rents their house and moves to a retirement village or assisted living facility. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_3.md)**
 - Minimum and target number of rentals per region by federal and/or state governments. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_4.md)**
 - Minimum number of public housing/social housing per region by federal and/or state governments. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_5.md)**
@@ -42,6 +43,7 @@ The purpose is to articulate legislation and other actions that can be taken to 
 
 #### Aconymns
 
+- IP - Investment Property
 - IPS - Investment Property Seller 
 - IPB - Investment Property Buyer
 - IPO - Investment Property Owner
@@ -80,7 +82,7 @@ Problems currently faced by Australians seeking shelter:
 - Holding of bond open to abuse by property managers.
 
 
-#### Meta
+#### META:
 
 - Obviously these proposals are incomplete - we require crowd sourcing to both flesh them out but also improve them so that they successfully achieve their intended objectives without indirect negative consequences.
 - Obviously these proposals are not technical - again we require crowd sourcing to both flesh them out but also improve them so that they successfully achieve their intended objectives without indirect negative consequences.
@@ -90,3 +92,4 @@ Problems currently faced by Australians seeking shelter:
 - Use a better suited medium rather than github
 - As of 24/10/2022 these policies have been created in a realpolitik manor with policies that use carrots rather than sticks. The reason for this is past Australian government reluctance to intervene in the property market for fear of affecting the property investors.
 - If you see *TODO* that means that section has yet to be implemented. Feel free to take over and contribute.
+- If you see *META* that means there is some pertinent information related to the building of the proposal itself rather than the proposal details/outcomes/etc.

@@ -14,6 +14,17 @@ Example; Progressively tax, in an accelerating manner, the total residential pro
 - Federal Government
 - Real Estate Agent
 
+
+#### Proposal Objectives
+
+*TODO*
+
+
+#### Proposal Details
+
+*TODO*
+
+
 #### Impacts of proposal on stakeholders
 
 **Postitive**

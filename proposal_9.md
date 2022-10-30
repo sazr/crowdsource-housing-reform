@@ -14,6 +14,18 @@ Example; *TODO*
 - Federal Government
 - Real Estate Agent
 
+
+#### Proposal Objectives
+
+*TODO*
+
+
+#### Proposal Details
+
+*TODO*
+
+
+
 #### Impacts of proposal on stakeholders
 
 **Postitive**

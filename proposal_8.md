@@ -1,18 +1,26 @@
 ## Disallow rental application questions that inaccurately or negatively impact an applicants application.
 
 
-Example; *TODO*
+Example; Rental application questions such as "Did you have your bond returned in full from your last tenancy?" should be disalllowed because it is common practice for property managers to to change out-going tenants cleaning/repair fee's for frivilous reasons &/or that actually fall under Landlord property maintenance obligations instead of tenant damage or uncleanliness.
 
 
 #### Stakeholders
 
-- PPOR Sellers
-- Investment Sellers
-- PPOR Buyers
-- Investment Buyers
-- State Government
-- Federal Government
-- Real Estate Agent
+- 
+
+
+#### Proposal Objectives
+
+*TODO*
+
+
+#### Proposal Details
+
+*TODO*
+
+
+
+
 
 #### Impacts of proposal on stakeholders
 

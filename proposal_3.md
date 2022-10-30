@@ -13,6 +13,19 @@ Example; John and Jenny are retired empty nesters who live in their 4 bedroom ho
 - Real Estate Agent
 
 
+#### Proposal Objectives
+
+*TODO*
+
+
+#### Proposal Details
+
+*TODO*
+
+
+
+
+
 #### Proposal Details
 
 - "6 months CGT moratorium, $15,000 rebate" rules and eligibility;

@@ -1,7 +1,13 @@
 ## "Housing supply is there, just not being used" - 12 months CGT moratorium, 12 months tax refund and maintenance rebate for renting out a Deceased estate, Holiday rental, AirBnB rental, Holiday home or vacant house.
 
 
-Example; Jane owns a house in Burrum Heads, QLD that she rents out as a holiday rental through a real estate agency. The house is usually only occupied 26 weeks out of the year. If Jane decides to rent the property on a regular fixed term lease she can claim a rebate sum of $2500 and a tax credit of $5000 over 2 years.
+Example; Jane owns a house in Burrum Heads, QLD that she rents out as a holiday rental through a real estate agency. The house is usually only occupied 26 weeks out of the year. If Jane decides to rent the property on a regular fixed term lease she can pay not CGT on any non-property investment sale for 12 months, claim a rebate sum of $2500 for property maintenance and a tax credit of $5000 over 2 years.
+
+### META: Major weakness of this proposal right now...
+
+The main objective of this proposal is to increase the number of rentals available by using existing stock. This is supposed to be achieved by offering incentives that make renting your IP on a fixed-term lease MORE ATTRACTIVE than other methods (AirBnB, holiday rental, holiday home).
+
+**However** I don't think the proposal incentives make it attractive enough (correct me if I am wrong here). So, how can we make this proposal more attractive to IPO's to encourage them to rent their IP on fixed-term lease?
 
 
 #### Stakeholders
@@ -11,6 +17,19 @@ Example; Jane owns a house in Burrum Heads, QLD that she rents out as a holiday 
 - State Government
 - Federal Government
 - Real Estate Agency
+
+
+#### Proposal Objectives
+
+- Quickly increase the number of available fixed-term rentals by encouraging owners of existing dwellings to enter into fixed-term lease agreements.
+
+
+#### Proposal Details
+
+*TODO*
+
+
+
 
 
 #### Proposal Details

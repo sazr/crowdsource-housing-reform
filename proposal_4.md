@@ -14,6 +14,19 @@ Example; The QLD government has been monitoring/measuring available rentals vs p
 - Federal Government
 - Real Estate Agent
 
+
+#### Proposal Objectives
+
+*TODO*
+
+
+#### Proposal Details
+
+*TODO*
+
+
+
+
 #### Impacts of proposal on stakeholders
 
 **Postitive**
