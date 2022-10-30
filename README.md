@@ -50,7 +50,7 @@ The purpose is to articulate legislation and other actions that can be taken to 
 - PPORS - Primary place of residence seller (any age)
 - PPORB - Primary place of residence buyer (any age)
 - NPPOR - A person of any age who owns no property - including no primary place if residence or investment properties.  
-- NPPORB - A person of any age who owns no property - including no primary place if residence or investment properties - attempting to buy a PPOR property.
+- NPPORB - A person of any age who owns no property - including no primary place if residence or investment properties and has not owned a PPOR for 5 years - attempting to buy a PPOR property.
 - PPORBU45 - Primary place of residence buyer who is under 45yo and owns no other property.
 - PPORBO45 - Primary place of residence buyer who is over 45yo (can own other property).
 - LL - Landlord - owner of a property they are renting out
