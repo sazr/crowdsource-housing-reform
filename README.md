@@ -49,8 +49,8 @@ The purpose is to articulate legislation and other actions that can be taken to 
 - IPO - Investment Property Owner
 - PPORS - Primary place of residence seller (any age)
 - PPORB - Primary place of residence buyer (any age)
-- PPORBU45 - Primary place of residence buyer who is under 45yo
-- PPORBO45 - Primary place of residence buyer who is over 45yo
+- PPORBU45 - Primary place of residence buyer who is under 45yo and owns no other property.
+- PPORBO45 - Primary place of residence buyer who is over 45yo (can own other property).
 - LL - Landlord - owner of a property they are renting out
 - RA - Real Estate Agent
 - PM - Property manager
