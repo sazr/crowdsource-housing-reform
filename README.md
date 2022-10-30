@@ -66,6 +66,8 @@ The purpose is to articulate legislation and other actions that can be taken to 
 Problems currently faced by Australians seeking shelter:
 
 - Purchasing a PPOR now costs 4, 8 sometimes 11 times your annual income. That wasn't always the case, previous generations would be paying a maximum of 4 times their annual income. 
+- In many places in Australia you can no longer purchase a home on 1 income, let alone raise a family on 1 income. That wasn't always the case, previous generations could both purchase a home on 1.5 incomes (1 spouse full-time, 1 spouse part-time/casual) or even 1 income.
+- There's been a significant increase in barriers to renting a dwelling that just didn't exist for previous generations. In 1990 you didn't need to provide payslips, car registration, medicare card number, birth certificate, rental ledgers, electricty invoices, work history, personal + work + rental references, etc. The usage and abuse of residential tenancy databases was not an issue for renters at that time.
 - "Choice between shelter or employment" - Rental inspections are held during work hours 10am-4pm. REA's won't accept an application if you haven't viewed the property.
 - "1980's Application Methods Only" - REA's only accept paper application forms. Prospective tenants fill out an average of 16 applications before securing a rental. Requires printer availability, scanner, printer fees, physically drop in application.
 - Questions on rental applications that inaccurately negatively impact an applicants application "Was your bond returned in full from your last tenancy"
@@ -87,9 +89,9 @@ Problems currently faced by Australians seeking shelter:
 - Obviously these proposals are incomplete - we require crowd sourcing to both flesh them out but also improve them so that they successfully achieve their intended objectives without indirect negative consequences.
 - Obviously these proposals are not technical - again we require crowd sourcing to both flesh them out but also improve them so that they successfully achieve their intended objectives without indirect negative consequences.
 - These policies need criticism and input from technical people (politicians, bureaucrats, community members, etc.). 
-- We need graphic designers to create info-graphics for each policy that succinctly articulate what the policy is and its benefits. These can be distributed on social media, in physical form, etc.
-- Create a website for these policies so its more approachable for non-tecnical people
-- Use a better suited medium rather than github
+- We need graphic designers to create info-graphics for each policy that succinctly articulates what the policy is and its benefits. These can be distributed on social media, in physical form, etc.
+- Create a website for these policies so its more approachable for non-tecnical people (as opposed to GitHub).
+- Use a better suited medium for policy development rather than github
 - As of 24/10/2022 these policies have been created in a realpolitik manor with policies that use carrots rather than sticks. The reason for this is past Australian government reluctance to intervene in the property market for fear of affecting the property investors.
 - If you see *TODO* that means that section has yet to be implemented. Feel free to take over and contribute.
-- If you see *META* that means there is some pertinent information related to the building of the proposal itself rather than the proposal details/outcomes/etc.
+- If you see *META* that means there is some pertinent information related to policy development/building rather than the proposal details/outcomes/etc.

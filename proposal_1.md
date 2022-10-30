@@ -17,7 +17,7 @@ Example; John (IPS) is selling his investment property and receives 3 offers; $6
 
 #### Proposal Objectives
 
-*TODO*
+- Address "Too poor to buy, too rich to rent" - House those who are currently renting and have significant savings (although not enough for a house deposit in this market).
 
 
 #### Proposal Details
@@ -43,7 +43,7 @@ Example; John (IPS) is selling his investment property and receives 3 offers; $6
 
 **Negative**
 
-- Could lead to even less rentals available as LL's decide to sell their current rental and 'cash-in'. Ideally this potential impact should be mitigated by [Proposal 2](proposal_2.md). **This is a serious impact of this proposal that needs to be mitigated somehow. Ideas welcome.**
+- Could lead to even less rentals available as LL's decide to sell their current rental and 'cash-in'. Ideally this potential impact should be mitigated by [Proposal 2](https://github.com/sazr/housing-reform/blob/master/proposal_2.md). **This is a serious impact of this proposal that needs to be mitigated somehow. Ideas welcome.**
     - Implementing local and regional limits on how many sellers can claim this proposal could mitigate this issue.
 - The RA will make less money per sale in this proposal. In the example given above, the RA would make about $200 less or about 0.8% less had the IPS taken the biggest offer.
 - If all bidders are PPORB under 45yo's the proposal fails to achieve it's goal of "Highest bid no longer the best bid". In the example given above, John will most likely take the highest bid.
