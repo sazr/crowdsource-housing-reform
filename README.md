@@ -16,6 +16,8 @@
 - Increase protections for renters including No Adverse Action \**From Renters and Housing Union* **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_13.md)**
 - Apply and enforce penalties to agents and landlords for breaches to renters rights \**From Renters and Housing Union* **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_14.md)**
 - Fund build to rent initiatives **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_15.md)**
+- Tiered Reward System for Landlords who sign long-term fixed-term leases that locks in the rent price over that period **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_16.md)**
+- Raising rent without adding value can be challenged **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_17.md)**
 
 
 ### Purpose
