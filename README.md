@@ -4,6 +4,7 @@
 - "Housing supply is there, just not being used" - 12 months CGT moratorium, 12 months tax refund and maintenance rebate for renting out a currently un-rented dwelling - a Deceased estate, Holiday rental, AirBnB rental, Holiday home or vacant house. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_2.md)**
 - Tiered Reward System for Landlords who sign long-term fixed-term leases that locks in the rent price over that period. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_16.md)**
 - "Downsize, save money and house your grand-children" - 6 months CGT moratorium, $15,000 rebate for retiree's who sells or rents their house and moves to a retirement village or assisted living facility. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_3.md)**
+- Raising rent without adding value can be challenged **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_17.md)**
 - Minimum and target number of rentals per region by federal and/or state governments. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_4.md)**
 - Minimum number of public housing/social housing per region by federal and/or state governments. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_5.md)**
 - Low occupant to bedroom ratio tax - tax or limit tax deductions on households that have vacant rooms. **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_6.md)**
@@ -16,8 +17,6 @@
 - Increase protections for renters including No Adverse Action \**From Renters and Housing Union* **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_13.md)**
 - Apply and enforce penalties to agents and landlords for breaches to renters rights \**From Renters and Housing Union* **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_14.md)**
 - Fund build to rent initiatives **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_15.md)**
-- Tiered Reward System for Landlords who sign long-term fixed-term leases that locks in the rent price over that period **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_16.md)**
-- Raising rent without adding value can be challenged **[Policy Detail](https://github.com/sazr/housing-reform/blob/master/proposal_17.md)**
 
 
 ### Purpose
